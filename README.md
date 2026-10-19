@@ -33,7 +33,7 @@ Email: *** Your email address ***
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
+![Git Animation](Animation/GitGif.gif)
 
 💬 4. Quote
 
