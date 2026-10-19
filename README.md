@@ -29,11 +29,11 @@ Email: *** Your email address ***
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+
 
 🎞️ 3. Animation
 
-![Git Animation](Animation/GitGif.gif)
+![Git Animation](tupcu-tupcu-fikret.gif)
 
 💬 4. Quote
 
